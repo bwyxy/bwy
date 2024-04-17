@@ -1,3 +1,17 @@
+# 百物语
+
+## 项目启动
+npm run dev
+
+## 项目打包
+npm run build
+
+## 代码仓库
+(https://github.com/wangyi1547124996/bwy.git)
+`
+ npm i
+`
+
 # Vue 3 + TypeScript + Vite
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
